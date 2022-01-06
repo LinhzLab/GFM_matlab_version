@@ -6,4 +6,4 @@ We develop a two-step iterative procedure so that each update can be carried out
 
 ## R version of GFM
 
-We also develop the corresponding R verion of GFM that is available at [here](https://github.com/LinhzLab/GFM_1)
+We also develop the corresponding R verion of GFM that is available at [here](https://github.com/LinhzLab/GFM-1). However, we suggest users to use the MATLAB version since it is more computationally efficient than R version in handling large-scale high-dimensional data.
