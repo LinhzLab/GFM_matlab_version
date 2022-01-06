@@ -7,7 +7,7 @@ Please see our new paper for model details:
 
  
 ## Advantage of computation
-We develop a two-step iterative procedure so that each update can be carried out parallelly across all variables and samples. The fast computation version is provided for ultra-high data, see gfm_example.m file.
+We develop a two-step iterative procedure so that each update can be carried out in  parallel across all variables and samples. The fast computation version is provided for ultra-high data, see gfm_example.m file.
 
 ## R version of GFM
 
